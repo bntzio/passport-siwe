@@ -1,0 +1,11 @@
+{
+  "name": "passport-siwe",
+  "version": "0.0.0",
+  "main": "cli.js",
+  "repository": "git@github.com:bntzio/passport-siwe.git",
+  "author": "Enrique Benitez",
+  "license": "UNLICENSED",
+  "bin": {
+    "passport-siwe": "cli.js"
+  }
+}
